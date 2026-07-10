@@ -3,10 +3,9 @@
 🚀 Aspiring Full Stack Developer | Python | Data Analytics | AI Enthusiast
 
 ## 🔥 About Me
-- 🌱 Currently learning Full Stack Development
 - 🐍 Working with Python
 - 📊 Interested in Data Analytics and Power BI
-- 🎯 Goal: Become a Full Stack Developer
+- 🎯 Goal: Become a Data Scientist 
 
 ## 🛠️ Skills
 
@@ -36,8 +35,6 @@
 
 
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## 🌐 Connect with Me
