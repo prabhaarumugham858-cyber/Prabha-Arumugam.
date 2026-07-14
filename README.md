@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Prabha
 
-🚀 Aspiring Full Stack Developer | Python | Data Analytics | AI Enthusiast
+🚀 Aspiring Data Scientist | Python | Data Analytics | AI Enthusiast
 
 ## 🔥 About Me
 - 🐍 Working with Python
