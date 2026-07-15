@@ -1,13 +1,13 @@
-# Hi there 👋 I'm Prabha
+# Hi there I'm Prabha
 
-🚀 Aspiring Data Scientist | Python | Data Analytics | AI Enthusiast
+ Aspiring Data Scientist | Python | Data Analytics | AI Enthusiast
 
-## 🔥 About Me
-- 🐍 Working with Python
-- 📊 Interested in Data Analytics and Power BI
-- 🎯 Goal: Become a Data Scientist 
+##  About Me
+-  Working with Python
+-  Interested in Data Analytics and Power BI
+- Goal: Become a Data Scientist 
 
-## 🛠️ Skills
+##  Skills
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 LinkedIn:https://www.linkedin.com/in/prabha-arumugam-231014370/
 Gmail:prabhaarumugham858@gmail.com
 
